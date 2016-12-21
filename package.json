@@ -1,0 +1,23 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "A starter project built from scratch for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsr4493/react-starter-project.git"
+  },
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "author": "Vardhman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsr4493/react-starter-project/issues"
+  },
+  "homepage": "https://github.com/vsr4493/react-starter-project#readme"
+}
