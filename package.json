@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/vsr4493/react-starter-project/issues"
   },
-  "homepage": "https://github.com/vsr4493/react-starter-project#readme"
+  "homepage": "https://github.com/vsr4493/react-starter-project#readme",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  }
 }
